@@ -1,0 +1,16 @@
+.card-footer {
+  padding: 0;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.card-img-top {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+button {
+  cursor: pointer;
+}
